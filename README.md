@@ -1,7 +1,7 @@
 # GrowthMentor 🎯
 
-A personal AI learning coach built with Gemini 2.0 Flash and Streamlit.  
-Choose your mentor persona, define your learning goal, and get coached through any subject — with memory that persists across your session.
+A personal AI learning coach built with Gemini 2.5 Flash and Streamlit.  
+Choose your mentor persona, define your learning goal, and get coached through any subject, with memory that persists across your session.
 
 ---
 

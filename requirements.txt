@@ -1,3 +1,7 @@
+# GrowthMentor — pinned dependencies
+# Generated for Python 3.10+
+# Tested on: Windows 11
+
 google-genai==2.0.1
 pydantic==2.13.4
 python-dotenv==1.2.2

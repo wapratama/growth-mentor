@@ -75,7 +75,8 @@ def _categorize_error(e: Exception) -> str:
         return (
             "⚠️ **Rate limit reached (429)**\n\n"
             "You've hit your API quota. Please wait a moment and try again.\n"
-            "Free tier: 15 requests/minute, 1500/day."
+            "- **5 requests / minute (RPM)** — wait 60 seconds and retry\n"
+            "- **20 requests / day (RPD)** — if hit, try again tomorrow."
         )
     if "timeout" in error_str or "deadline" in error_str:
         return (

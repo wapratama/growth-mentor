@@ -102,6 +102,25 @@ Opens at `http://localhost:8501`.
 
 ---
 
+## AI Chatbot UI
+
+**1. Onboarding**: Input your name, learning goal, and choose your mentor
+
+![Onboarding Page 1](img/01_onboarding_step1of2.png)
+
+![Onboarding Page 2](img/02_onboarding_step2of2.png)
+
+**2. Landing Page**: Dark and light mode
+![Landing Page (dark mode)](img/03_landing_page_dark.png)
+
+![Landing Page (light mode)](img/04_landing_page_light.png)
+
+**3. Chat Mode**: Test response
+
+![Chat Mode (Gemini response)](img/05_chat_gemini_test_answer.png)
+
+---
+
 ## Model and usage limits
 
 | Property | Value |
